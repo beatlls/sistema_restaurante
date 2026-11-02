@@ -34,16 +34,20 @@ O sistema resolve o problema de explosão de classes no cardápio utilizando o p
    ```bash
    git clone [https://github.com/beatlls/nome-do-seu-repositorio.git](https://github.com/beatlls/nome-do-seu-repositorio.git)
 2. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, etc).
+
 3. Execute a classe Main.java localizada no pacote org.example.app.
+## 🧪 Como executar os testes
 
-## Testes
+O projeto conta com testes unitários em **JUnit 5** para garantir a integridade do padrão Decorator. 
 
-O projeto inclui testes unitários desenvolvidos em JUnit para a validação das regras de negócio, cálculos financeiros e integridade do padrão Decorator.
-
-Para executar a suíte de testes localmente, utilize o comando Maven na raiz do repositório:
+Para rodar os testes localmente, abra o terminal na raiz do projeto e execute o comando Maven:
 
 ```bash
 mvn test
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/beatlls/nome-do-seu-repositorio.git](https://github.com/beatlls/nome-do-seu-repositorio.git)
+```
+
+## 🎥 Demonstração do Projeto
+
+Assista ao vídeo de apresentação detalhando a organização dos pacotes, o padrão Decorator em ação, o sistema rodando e a execução dos testes unitários:
+
+👉 **[Clique aqui para assistir ao vídeo de apresentação]([(https://youtu.be/LIOP5AU4tvc?si=bwVL4P7Dp8-HicR3)])**
