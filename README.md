@@ -50,4 +50,4 @@ mvn test
 
 Assista ao vídeo de apresentação detalhando a organização dos pacotes, o padrão Decorator em ação, o sistema rodando e a execução dos testes unitários:
 
-👉 **[Clique aqui para assistir ao vídeo de apresentação]([(https://youtu.be/LIOP5AU4tvc?si=bwVL4P7Dp8-HicR3)])**
+👉 **[Clique aqui para assistir ao vídeo de apresentação](https://youtu.be/LIOP5AU4tvc?si=bwVL4P7Dp8-HicR3)**
